@@ -1,0 +1,1 @@
+# Optimasi-BERT-terhadap-Prediksi-Putusan-Perkara-Pidana-

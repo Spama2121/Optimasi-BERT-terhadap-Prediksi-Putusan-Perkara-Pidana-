@@ -1,0 +1,16 @@
+{
+  "accuracy": 0.9884,
+  "f1_macro": 0.3314,
+  "f1_weighted": 0.9826,
+  "f1_per_kelas": {
+    "pidana": 0.9942,
+    "bebas": 0.0,
+    "lepas": 0.0
+  },
+  "roc_auc_macro": 0.5037,
+  "total_test": 2064,
+  "total_error": 24,
+  "error_rate": 0.0116,
+  "high_conf_error": 24,
+  "pola_error_utama": "bebas salah → pidana (24 kasus)"
+}

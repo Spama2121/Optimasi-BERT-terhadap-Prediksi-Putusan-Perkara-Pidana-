@@ -261,3 +261,10 @@ data/raw/*.csv
 data/processed/*.pt
 models/*.bin
 models/config.json
+
+# DVC cache
+.dvc/cache
+data/raw/*.csv
+data/processed/*.pt
+models/*.bin
+models/config.json
